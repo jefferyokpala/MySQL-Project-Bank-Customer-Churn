@@ -2,7 +2,7 @@
 
 ## Overview
 
-SQL-based data cleaning and analysis of the dataset of a bank detailing their customer churn using MySQL Workbench
+SQL-based data cleaning and analysis of a bank's customer churn dataset
 
 ## Business Task
 
@@ -10,7 +10,7 @@ This analysis aims to find patterns that indicate that a customer is likely to s
 
 ## Data Source
 
-This dataset was obatined on Kaggle, and it can be found here
+This dataset was obtained on Kaggle, and it can be found here
 
 ## Tools
 
