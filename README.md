@@ -44,7 +44,7 @@ MySQL Workbench
 
 ![image alt](https://github.com/jefferyokpala/MySQL-Project-Bank-Customer-Churn/blob/main/images/image4.png?raw=true)
 
-## Data exploration and analysis
+### Data exploration and analysis
 
 * Once the data was cleaned, I began to query it to uncover patterns indicative of customers who left the bank. During my exploration and analysis of the data, I sought answers to the following questions.
 
