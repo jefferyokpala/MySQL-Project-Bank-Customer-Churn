@@ -1,4 +1,4 @@
-# MySQL-Project-Bank-Customer-Churn
+# MySQL Project Bank Customer Churn
 
 ## Overview
 
