@@ -10,7 +10,7 @@ This analysis aims to find patterns that indicate that a customer is likely to s
 
 ## Data Source
 
-This dataset was obtained on Kaggle, and it can be found here
+This dataset was obtained on Kaggle, and it can be found [here](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
 
 ## Tools
 
