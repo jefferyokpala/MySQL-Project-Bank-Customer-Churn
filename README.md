@@ -32,7 +32,7 @@ MySQL Workbench
 
 ### Data Cleaning
 
-* I began to clean the data and observed that several entries in the balance column were listed as “0”. While it is possible for customers to have a zero balance, this seemed more like an entry error to me because the other entries in the column had two decimal places, and the zero balances did not. The other entries had five or six figures before the decimal point, making the zeroes seem odd. Also, looking at the entries in the columns of the affected rows, there was no concrete pattern that stood out. Some people with zero balance had credit scores over 800 and estimated salaries in the six-figure range. Therefore, I assigned NULL values to the rows with zero balance, so it would not affect any calculation I may make later, like when calculating aggregate functions.
+* I began to clean the data and observed that several entries in the balance column were listed as “0”. While it is possible for customers to have a zero balance, this seemed more like an entry error to me because the other entries in the column had two decimal places, and the zero balances did not. The other entries had five or six figures before the decimal point, making the zeroes seem odd. Also, looking at the entries in the columns of the affected rows, there was no concrete pattern that stood out. Some people with zero balance had credit scores over 800 and estimated salaries in the six-figure range. Therefore, I assigned NULL values to the rows with zero balance, so it would not affect any calculation I may make later, like when using aggregate functions.
 
 ![image alt](https://github.com/jefferyokpala/MySQL-Project-Bank-Customer-Churn/blob/main/images/image3.png?raw=true)
 
