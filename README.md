@@ -74,11 +74,11 @@ Is there a correlation between customers who complained and those who exited? Ye
 
 ## Conclusion
 
-* My exploration and analysis revealed that the most significant factor that determines whether a customer will leave is whether they complain about the service they receive. Therefore, the bank should strengthen its customer support staff and work harder to address complaints before they lead to churn. The bank can offer incentives to customers who complain to persuade them to stay.
+* My exploration and analysis revealed that the most significant factor that determines whether a customer will leave is whether they complain about the service they receive. Therefore, the bank should improve its customer support and work harder to address complaints before they lead to churn. The bank can offer incentives to customers who complain to persuade them to stay.
 
-* Also, females are more likely than males to exit. The bank should investigate this and put more effort and resources into it. Into retaining their female customers.
+* Also, females are more likely than males to exit. The bank should investigate this and devote more effort and resources into retaining their female customers.
 
-* It is also worth noting that people with poor credit scores are more likely to exit, since the minimum credit score of customers who left is 350.  Those who remain as customers have a minimum score of 405, which is still considered poor but is better than 405. To retain such customers, the bank can offer financial services that will appeal to them.
+* It is also worth noting that people with poor credit scores are more likely to exit, since the minimum credit score of customers who left is 350.  Those who remain as customers have a minimum score of 405, which is still considered poor but is higher than 350. To retain such customers, the bank can offer financial services that will appeal to them.
 
 
 
